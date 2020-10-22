@@ -8,8 +8,64 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d386a5af-41b4-4ef6-be82-ad51c989f8c6" name="Default Changelist" comment="" />
+    <list default="true" id="d386a5af-41b4-4ef6-be82-ad51c989f8c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SpringMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/SpringMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/src/main/java/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/src/main/webapp/WEB-INF/views/greeting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/classes/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/views/greeting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/SpringMVC/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week1/BT-UngDungChuyenDoiTienTe/target/classes/controller/HomeController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +79,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -39,6 +98,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iUJqoKE5ipnr0sQwNorboY63yn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -207,11 +267,23 @@
       <workItem from="1601956435462" duration="4963000" />
       <workItem from="1602830393911" duration="506000" />
       <workItem from="1603272498098" duration="2516000" />
+      <workItem from="1603341990109" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="129" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603272625035">
